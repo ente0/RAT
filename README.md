@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/f344c746-3ddc-41a2-b38c-eb8502fdb848"/>
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/github/license/ente0/RAT" alt="License">
   <img src="https://img.shields.io/badge/language-python-blue" alt="Language: Python">
   <img src="https://img.shields.io/badge/release-v1.0.0-green" alt="Version">
