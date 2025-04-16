@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/license-green" alt="License">
+  <img src="https://img.shields.io/github/license/ente0/RAT" alt="License">
   <img src="https://img.shields.io/badge/language-python-blue" alt="Language: Python">
   <img src="https://img.shields.io/badge/release-v1.0.0-green" alt="Version">
   <img src="https://img.shields.io/badge/platform-linux-orange" alt="Platform">
