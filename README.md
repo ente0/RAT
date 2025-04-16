@@ -12,7 +12,7 @@
 
 <div align="center">
   
-# RAT: Scan and Analyze
+# RAT: Recon and Analyze
 ### **A comprehensive offensive security framework that automates reconnaissance, scanning, and enumeration phases for penetration testing.**
 
 </div>
